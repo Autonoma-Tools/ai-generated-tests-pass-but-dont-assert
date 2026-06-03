@@ -1,9 +1,9 @@
 {
   "version": 1,
   "slug": "ai-generated-tests-pass-but-dont-assert",
-  "step": "created",
-  "completed_specs": [],
-  "pending_specs": ["tautological-before-after"],
-  "created_at": "2026-06-03T09:41:27Z",
-  "updated_at": "2026-06-03T09:41:27Z"
+  "step": "deps_written",
+  "completed_specs": ["tautological-before-after"],
+  "pending_specs": [],
+  "created_at": "2026-06-03T09:43:15Z",
+  "updated_at": "2026-06-03T09:43:15Z"
 }
